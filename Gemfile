@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'capybara'
+gem 'pg'
 gem 'rspec'
 gem "rubocop", "0.79.0"
 gem 'simplecov'
