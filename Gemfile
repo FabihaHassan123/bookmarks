@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+
+gem 'capybara'
+gem 'rspec'
+gem "rubocop", "0.79.0"
+gem 'simplecov'
+gem 'simplecov-console'
+gem 'sinatra'
