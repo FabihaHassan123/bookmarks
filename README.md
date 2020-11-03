@@ -26,9 +26,8 @@ I'd like to view a list of my bookmarks
 #### Create bookmarks table
 
 Enter the following commands in command line
-```
-psql
-CREATE DATABASE bookmark_manager;
-\c bookmark_manager;
-01_create_bookmarks_table.sql
-```
+
+1. Connect to ```psql```
+2. Create the database ```CREATE DATABASE bookmark_manager;```
+3. Connnect to the database ```\c bookmark_manager;```
+4. Run this query we created to create the table ```01_create_bookmarks_table.sql```
