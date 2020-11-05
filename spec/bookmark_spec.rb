@@ -16,7 +16,11 @@ describe Bookmark do
       expect(bookmarks.first.id).to eq bookmark.id
       expect(bookmarks.first.title).to eq 'Google'
       expect(bookmarks.first.url).to eq 'http://www.google.com'
+    end
 
+    it 'does not create the bookmark if the url is invalid' do
+      Bookmark.create(url: 'not a real url', title: 'title')
+      expect(Bookmark.all).to be_empty
     end
   end
 
