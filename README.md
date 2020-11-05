@@ -31,3 +31,15 @@ Enter the following commands in command line
 2. Create the database ```CREATE DATABASE bookmark_manager;```
 3. Connnect to the database ```\c bookmark_manager;```
 4. Run this query we created to create the table ```01_create_bookmarks_table.sql```
+5. Add another column by running this query ```02_add_title_column.sql```
+
+
+#### Create test database with bookmarks table
+
+Enter the following commands in command line
+
+1. Connect to ```psql```
+2. Create the database ```CREATE DATABASE test_bookmark_manager;```
+3. Connnect to the database ```\c test_bookmark_manager;```
+4. Run this query we created to create the table ```01_create_bookmarks_table.sql```
+5. Add another column by running this query ```02_add_title_column.sql```

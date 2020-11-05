@@ -1,7 +1,78 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/fabihahassan/bookmarks/spec/bookmark_list_spec.rb": {
+      "/Users/fabihahassan/bookmarks/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/fabihahassan/bookmarks/spec/database_helpers.rb": {
         "lines": [
           1,
           null,
@@ -9,7 +80,82 @@
           1,
           1,
           1,
+          null
+        ]
+      },
+      "/Users/fabihahassan/bookmarks/spec/database_connection_spec.rb": {
+        "lines": [
+          1,
           null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/fabihahassan/bookmarks/spec/features/add_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/fabihahassan/bookmarks/spec/features/deleting_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/fabihahassan/bookmarks/spec/features/updating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
           null,
           null
         ]
@@ -18,7 +164,11 @@
         "lines": [
           1,
           1,
+          null,
+          null,
           1,
+          1,
+          null,
           1,
           1,
           1,
@@ -27,6 +177,6 @@
         ]
       }
     },
-    "timestamp": 1604339771
+    "timestamp": 1604594856
   }
 }
